@@ -1,4 +1,4 @@
-/.env
 /music_artists.db
 /__pycache__
 /MusicLibraryFiltered/*
+/*env

@@ -6,8 +6,6 @@ import sqlite3
 import requests
 import asyncio
 from yandex_music import ClientAsync
-from mutagen.easyid3 import EasyID3
-from mutagen.mp3 import MP3
 from genre_map import GENRE_MAP
 
 
